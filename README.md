@@ -18,6 +18,8 @@ pip install opencv-python
 pip install pygame
 ```
 
-Or else you can also use the zip file which contains a .exe executable file.
+Or else you can also use the zip file which contains a .exe executable file, the link for which is down below.
+
+[Link to file](https://drive.google.com/file/d/1NGkY2ENHfNCTB-_-wIhj73c4HxI9UFQc/view?usp=sharing)
 
 Enjoy!
