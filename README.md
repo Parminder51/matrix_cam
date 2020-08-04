@@ -4,6 +4,7 @@
 
 This is another simple script of mine that well while not being practical, is just really cool. Check it out and you'll totally understand what it is. And no, it doesn't just do what the pic above is showing.
 
+### **You do need a webcam for this(obviously)!**
 ## Requirements
 
 The packages used in it are-
