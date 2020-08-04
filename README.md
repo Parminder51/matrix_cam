@@ -1,1 +1,20 @@
 # matrix_cam
+
+This is another simple script of mine that well while not being practical, is just really cool. Check it out and you'll totally understand what it is.
+
+## Requirements
+
+The packages used in it are-
+- opencv-python
+- numpy
+- pygame
+
+If you want to run the python script just use the code below for installing the packages:
+```
+pip install opencv-python
+pip install pygame
+```
+
+Or else you can also use the zip file which contains a .exe executable file.
+
+Enjoy!
