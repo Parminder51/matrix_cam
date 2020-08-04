@@ -1,6 +1,8 @@
 # matrix_cam
 
-This is another simple script of mine that well while not being practical, is just really cool. Check it out and you'll totally understand what it is.
+![picture alt](pic.png)
+
+This is another simple script of mine that well while not being practical, is just really cool. Check it out and you'll totally understand what it is. And no, it doesn't just do what the pic above is showing.
 
 ## Requirements
 
